@@ -1,0 +1,9 @@
+{
+  "user": {
+    "id": 1,
+    "name": "Andi Pratama",
+    "email": "andi@example.com",
+    "isActive": true,
+    "roles": ["pegawai"]
+  }
+}
